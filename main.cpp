@@ -191,39 +191,13 @@ int main()
                 break;
             }
             default :
-                {
-                    gotoxy(22, 18);
-                    cout<<"Invalid choice. Press any key ...";
-                    getch();
-                }
+            {
+                gotoxy(22, 18);
+                cout<<"Invalid choice. Press any key ...";
+                getch();
+            }
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
