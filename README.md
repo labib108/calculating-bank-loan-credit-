@@ -1,1 +1,1 @@
-# calculating-bank-loan-credit-
+# calculating-bank-loan-credit
